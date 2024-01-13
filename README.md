@@ -13,4 +13,12 @@ Feel free to explore my repositories and reach out if you have any questions or 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=belmqadem&show_icons=true&theme=shadow_blue&show_owner=true&card_width=400px)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belmqadem&layout=compact&theme=shadow_blue&card_width=400px)
 
+<h3 align="center">Find me on</h3>
+<p align="center">
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adil-belmqadem-8986332a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkdIn" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/4yrzzwvaro64s396ojjnecwwk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="Spotify" height="30" width="40" /></a>
+</p>
+
 </div>

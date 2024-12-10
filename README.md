@@ -11,10 +11,11 @@ Welcome to my GitHub profile! I'm passionate about coding, cloud technologies, a
 ---
 
 ### 🚀 Skills & Expertise:
-**Frontend Development:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap  
-**Azure Cloud Administration:** Experience in managing and configuring Azure services  
-**Azure AI Engineering:** Python for AI & Machine Learning  
-**Programming Languages:** C, C++
+**Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap  
+
+**Programming:** Python, C, C++
+
+**Azure:** Cloud Administration, AI Engineering
 
 ---
 

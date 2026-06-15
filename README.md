@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adilbelmqadem)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adilbelmqadem4@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://adilbelmqadem.dev)
-[![Available for hire](https://img.shields.io/badge/Available%20for%20work-2ea44f?style=flat)](mailto:adilbelmqadem4@gmail.com)
 [![Profile views](https://komarev.com/ghpvc/?username=belmqadem&color=0A66C2&style=flat&label=Profile+views)](https://github.com/belmqadem)
 
 </div>
@@ -20,24 +19,9 @@ What sets me apart is breadth with genuine depth — modern React ecosystem, dis
 
 ```
 Status:    Freelance Full-Stack Developer  ·  Student @ 1337 Coding School (42 Network)
-Location:  Rabat, Morocco  ·  Ben Guerir, Morocco  ·  Available remotely worldwide
+Location:  Rabat, Morocco  ·  Ben Guerir, Morocco
 Open to:   Freelance projects  ·  Frontend roles  ·  Full-Stack / Software Engineering roles
 ```
-
----
-
-## What I Can Build for You
-
-Whether you're a startup, a growing business, or a solo founder — I can take your idea from zero to a production-ready product.
-
-| | Service | What you get |
-|:---:|---|---|
-| 🖥️ | **Landing pages & marketing sites** | Fast, responsive, conversion-focused — built with Next.js or React, deployed and production-ready |
-| 📱 | **Mobile applications** | Cross-platform mobile apps built with React Native |
-| ⚙️ | **Full-stack web applications** | End-to-end SaaS products with auth, dashboards, subscriptions, and admin panels |
-| 🔌 | **REST APIs & backend systems** | Node.js microservices, database design, Redis caching, RabbitMQ messaging — built to scale |
-| 🐳 | **Infrastructure & deployment** | Docker, K3s, ArgoCD, CI/CD pipelines — containerised and continuously deployed |
-| 🔁 | **Codebase improvements** | Refactoring, performance audits, TypeScript migrations, architecture clean-ups |
 
 ---
 
@@ -90,19 +74,6 @@ Whether you're a startup, a growing business, or a solo founder — I can take y
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**Coworking SaaS**](https://github.com/belmqadem) | Full-stack platform with subscriptions, bookings, and real-time dashboards. 200+ concurrent sessions at sub-100ms. | React 19, Node.js, PostgreSQL, Redis, RabbitMQ |
-| [**ft_transcendence**](https://github.com/belmqadem/ft_transcendence) | Real-time Pong SPA with a custom JSX engine from scratch. 500+ concurrent players at sub-50ms latency. | TypeScript, WebSocket, Custom JSX, Docker |
-| [**Matcha**](https://github.com/belmqadem/matcha/tree/dev) | Dating app with real-time chat, geolocation matching, and live notifications. | TypeScript, React, PostgreSQL, WebSockets |
-| [**Inception of Things**](https://github.com/belmqadem/Inception-of-Things) | K3s Kubernetes cluster on Vagrant VMs with ArgoCD GitOps delivery. | K3s, Vagrant, ArgoCD, Docker |
-| [**Webserv**](https://github.com/belmqadem/webserv-team) | HTTP/1.1 server in C++ from scratch — CGI, chunked encoding, non-blocking I/O. | C++, HTTP/1.1, Sockets |
-| [**Inception**](https://github.com/belmqadem/inception) | Containerized NGINX + WordPress + MariaDB infrastructure. Single-command provisioning. | Docker, NGINX, MariaDB |
 
 ---
 
